@@ -1,4 +1,10 @@
 # PUBG-Ruby
+[![Gem Version](https://badge.fury.io/rb/pubg-ruby.svg)](https://badge.fury.io/rb/pubg-ruby)
+[![Build Status](https://travis-ci.org/MarceloAlves/ruby-gopro.svg?branch=master)](https://travis-ci.org/MarceloAlves/ruby-gopro)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7be16d8f20c31523f00d/maintainability)](https://codeclimate.com/github/MarceloAlves/pubg-ruby/maintainability) 
+![Gem](https://img.shields.io/gem/dt/pubg-ruby.svg)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true)](https://github.com/marceloalves/pubg-ruby/pulls)
+
 
 API wrapper for the official [PUBG API](https://developer.playbattlegrounds.com/)
 
